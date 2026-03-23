@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me:
-I'm Sweety Pandit, Pursing Masters of Computer Applications from Graphic Era University.<br>
+I'm Sweety Pandit, Working as a Junior AI Engineer at iTuring.ai.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sweety-pandit-041b07344) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sweetypandit284@gmail.com) 
